@@ -23,11 +23,11 @@ O projeto é um sistema de controle onde é possível cadastrar, alterar, ler e 
 ### Relatório  com   o   total   de   movimentações   agrupadas   por   cliente   e   tipo  de movimentação.
 * No final do relatório deverá conter um sumário com o total de importação / exportação.
 
-## Instalação Local
+<h2 align="center"> Instalação Local </h2>
 
 Para executar o projeto localmento você pode utilizar o arquivo .WAR que se encontra na pasta dist e implata-lo pelo gerenciador de aplicações web do servidor web Apache Tomcat, ou baixar todo o projeto, abri-lo e executa-lo na IDE Apache NetBeans versão 15 com o Tomcat adicionado na IDE.
 
-## Construído Com
+<h2 align="center"> Construído Com </h2>
 
 * HTML
 * CSS
@@ -35,7 +35,7 @@ Para executar o projeto localmento você pode utilizar o arquivo .WAR que se enc
 * JAVA
 * SQL
 
-## Versão das Linguagens e Ferramentas
+<h2 align="center"> Versão das Linguagens e Ferramentas
 
 #### Servidor de base de dados
 
@@ -50,6 +50,6 @@ Para executar o projeto localmento você pode utilizar o arquivo .WAR que se enc
 * IDE Apache NetBeans - 15
 * [JDBC Para SQLite](https://github.com/xerial/sqlite-jdbc/releases) - 3.36.0.3
 
-## Autor
+<h2 align="center"> Autor </h2>
 
 * **Brian Melisnki Bianchini**
