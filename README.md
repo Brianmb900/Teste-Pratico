@@ -25,7 +25,7 @@ O projeto é um sistema de controle onde é possível cadastrar, alterar, ler e 
 
 ## Instalação Local
 
-Para executar o projeto localmento você 
+Para executar o projeto localmento você pode utilizar o arquivo .WAR que se encontra na pasta dist e implatalo pelo gerenciador de aplicações web do Tomcat, ou baixar todo o projeto, abri-lo e executa-lo na IDE Apache NetBeans versão 15 com o servidor web adicionado na IDE.
 
 ## Construído Com
 
