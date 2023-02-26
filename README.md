@@ -29,11 +29,11 @@ Para executar o projeto localmento você
 
 ## Construído com
 
-* [HTML]
-* [CSS]
-* [JavaScript]
-* [JAVA]
-* [SQL]
+* HTML
+* CSS
+* JavaScript
+* JAVA
+* SQL
 
 ## Versão das Linguagens e Ferramentas
 
