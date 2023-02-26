@@ -27,7 +27,7 @@ O projeto é um sistema de controle onde é possível cadastrar, alterar, ler e 
 
 Para executar o projeto localmento você 
 
-## Construído com
+## Construído Com
 
 * HTML
 * CSS
