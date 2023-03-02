@@ -50,6 +50,9 @@ Para executar o projeto localmento você pode utilizar o arquivo .WAR que se enc
 * IDE Apache NetBeans - 15
 * [JDBC Para SQLite](https://github.com/xerial/sqlite-jdbc/releases) - 3.36.0.3
 
-<h2 align="center"> Autor </h2>
+#### Frameworks/Bibliotecas
+* Bootstrap - 5.3
+
+<h2 align="center"> Autor/Desenvolvedor </h2>
 
 * **Brian Melisnki Bianchini**
